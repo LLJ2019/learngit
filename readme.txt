@@ -5,3 +5,4 @@ Create dev branch.
 Creating a new branck is quick&simple.
 Create dev branch add delete it with --no-ff mode.
 Creating a new branch is quick and simple.
+Git add merge.
